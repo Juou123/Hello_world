@@ -3,7 +3,7 @@ test for upload a project
 # Note
 1. This is a test project.
 # Makefile
-- 将gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf 安装到本地的已经在本地usr/local/arm/路径中
+- 将gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf 解压缩到本地的已经在本地usr/local/arm/路径中
 - 并且在 /etc/profile文件的最后加上路径。
   ```
     export PATH=/usr/local/arm/gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf/bin:$PATH
